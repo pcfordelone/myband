@@ -1,5 +1,5 @@
-import { UserButton } from "@clerk/nextjs"
-import { ThemeToggle } from "./theme-toggle"
+import { UserButton } from '@clerk/nextjs'
+import { ThemeToggle } from './theme-toggle'
 
 export const Header = () => {
   return (
